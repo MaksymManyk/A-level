@@ -1,0 +1,7 @@
+{
+  "logger": {
+    "LogFilePath": "logs",
+    "NumbersOfEntries": 10,
+    "BackUpFolder": "logs\\BackUp"
+  }
+ }
