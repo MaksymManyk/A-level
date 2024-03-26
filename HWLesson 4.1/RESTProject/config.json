@@ -1,0 +1,15 @@
+{
+  "Api": {
+    "Host": "https://reqres.in/",
+    "ListUsers": "api/users?page=",
+    "SingleUser": "api/users/",
+    "ListResource": "api/unknown",
+    "SingleResource": "api/unknown/",
+    "UserCreate": "api/users",
+    "UserUpdate": "api/users/",
+    "UserDelete": "api/users/",
+    "Register": "api/register",
+    "Login": "api/login",
+    "DelayedResponce":  "api/users?delay="
+  }
+}
